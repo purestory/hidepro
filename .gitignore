@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+x64/
+Debug/
+Release/
+*.res
+*.obj
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+
+# Distribution artifacts
+*.zip
+*.exe
+dist/
+dist_payload/
+test_output/
+
+# OS generated
+Thumbs.db
+Desktop.ini
